@@ -1,0 +1,179 @@
+2016-09-11 22:34:47,773 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/pom.xml.
+2016-09-11 22:34:48,272 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/pom.xml.
+2016-09-11 22:34:48,488 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/pom.xml.
+2016-09-11 22:34:48,715 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/pom.xml.
+2016-09-11 22:34:48,739 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/pom.xml.
+2016-09-11 22:34:48,782 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/pom.xml.
+2016-09-11 22:34:50,757 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/main/java
+2016-09-11 22:34:50,758 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/main/resources
+2016-09-11 22:34:50,758 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/test/java
+2016-09-11 22:34:50,853 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/main/java
+2016-09-11 22:34:50,853 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zipcloud-core/src/main/resources
+2016-09-11 22:34:50,854 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/test/java
+2016-09-11 22:34:51,023 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/main/java
+2016-09-11 22:34:51,024 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/test/java
+2016-09-11 22:34:51,041 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/pom.xml.
+2016-09-11 22:34:51,066 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/pom.xml.
+2016-09-11 22:34:51,193 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/pom.xml.
+2016-09-11 22:34:51,256 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/pom.xml.
+2016-09-11 22:34:51,326 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/pom.xml.
+2016-09-11 22:34:51,402 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/pom.xml.
+2016-09-11 22:34:51,479 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/pom.xml.
+2016-09-11 22:34:51,539 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/pom.xml.
+2016-09-11 22:34:51,602 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/pom.xml.
+2016-09-11 22:34:51,659 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/pom.xml.
+2016-09-11 22:34:52,443 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/main/java
+2016-09-11 22:34:52,443 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/test/java
+2016-09-11 22:34:52,988 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 7 sec
+2016-09-11 22:34:54,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:54,236 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-11 22:34:54,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:54,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/src/test/resources
+2016-09-11 22:34:54,475 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:54,475 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-11 22:34:54,477 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:54,477 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/src/test/resources
+2016-09-11 22:34:55,327 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/pom.xml.
+2016-09-11 22:34:55,666 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:55,666 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-11 22:34:55,667 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:55,668 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-11 22:34:55,671 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-09-11 22:34:55,698 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:55,698 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to WEB-INF
+2016-09-11 22:34:55,842 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:55,842 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-11 22:34:55,844 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:55,844 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-11 22:34:55,844 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-09-11 22:34:55,852 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:34:55,852 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources to WEB-INF
+2016-09-11 22:35:26,741 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:35:26,741 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-11 22:35:26,742 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:35:26,742 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-11 22:36:26,474 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-11 22:36:26,595 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-parent:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/pom.xml.
+2016-09-11 22:36:26,616 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/pom.xml.
+2016-09-11 22:36:26,702 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/pom.xml.
+2016-09-11 22:36:26,727 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/pom.xml.
+2016-09-11 22:36:26,739 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-parent:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/pom.xml.
+2016-09-11 22:36:26,768 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/pom.xml.
+2016-09-11 22:36:27,202 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/main/java
+2016-09-11 22:36:27,202 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-api/src/test/java
+2016-09-11 22:36:27,428 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/main/java
+2016-09-11 22:36:27,428 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloudstreetmarket-core/src/main/resources
+2016-09-11 22:36:27,429 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-core/src/test/java
+2016-09-11 22:36:27,461 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/main/java
+2016-09-11 22:36:27,461 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloudstreetmarket-webapp/src/test/java
+2016-09-11 22:36:27,577 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/main/java
+2016-09-11 22:36:27,577 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zipcloud-core/src/main/resources
+2016-09-11 22:36:27,577 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zipcloud-core/src/test/java
+2016-09-11 22:36:27,825 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-api:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/pom.xml.
+2016-09-11 22:36:28,009 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for cloudstreetmarket-api
+2016-09-11 22:36:28,086 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud.cloudstreetmarket:cloudstreetmarket-webapp:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/pom.xml.
+2016-09-11 22:36:28,253 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for cloudstreetmarket-webapp
+2016-09-11 22:36:28,292 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.zipcloud:zipcloud-core:0.0.1-SNAPSHOT @ /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/pom.xml.
+2016-09-11 22:36:28,339 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-09-11 22:36:28,551 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,551 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-11 22:36:28,553 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,553 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/src/test/resources
+2016-09-11 22:36:28,643 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,643 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-11 22:36:28,647 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,647 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/src/test/resources
+2016-09-11 22:36:28,736 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,736 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-11 22:36:28,737 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,737 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-11 22:36:28,739 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-webapp
+2016-09-11 22:36:28,747 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,748 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to WEB-INF
+2016-09-11 22:36:28,962 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,962 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-11 22:36:28,963 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,963 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-11 22:36:28,964 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for cloudstreetmarket-api
+2016-09-11 22:36:28,968 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:28,969 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources to WEB-INF
+2016-09-11 22:36:47,338 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent
+2016-09-11 22:36:47,339 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-09-11 22:36:49,274 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:49,277 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-11 22:36:49,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:49,279 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/src/test/resources
+2016-09-11 22:36:49,291 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:49,291 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-11 22:36:49,292 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:49,292 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-11 22:36:49,313 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:49,313 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-11 22:36:49,314 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:49,314 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-11 22:36:57,658 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent
+2016-09-11 22:36:57,659 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-09-11 22:36:59,414 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:59,415 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-11 22:36:59,417 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:36:59,417 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/src/test/resources
+2016-09-11 22:37:05,529 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent
+2016-09-11 22:37:05,530 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-09-11 22:37:11,185 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:11,185 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-11 22:37:11,186 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:11,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/src/test/resources
+2016-09-11 22:37:11,249 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:11,249 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-11 22:37:11,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:11,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-11 22:37:11,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:11,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-11 22:37:11,323 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:11,323 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-11 22:37:19,886 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent
+2016-09-11 22:37:19,886 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-09-11 22:37:22,764 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:22,764 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-11 22:37:22,765 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-11 22:37:22,765 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/src/test/resources
+2016-09-24 14:48:59,213 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 14:48:59,216 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-24 14:48:59,218 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 14:48:59,218 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-24 14:48:59,710 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 14:48:59,711 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-24 14:48:59,712 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 14:48:59,712 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-24 15:58:41,759 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,767 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-24 15:58:41,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/src/test/resources
+2016-09-24 15:58:41,900 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,901 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-24 15:58:41,903 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,903 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/src/test/resources
+2016-09-24 15:58:41,926 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,926 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-24 15:58:41,927 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,928 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-24 15:58:41,947 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,948 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-24 15:58:41,948 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 15:58:41,949 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
+2016-09-24 16:08:51,393 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:51,409 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-24 16:08:51,419 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:51,420 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-core/src/test/resources
+2016-09-24 16:08:52,250 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:52,257 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-24 16:08:52,259 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:52,259 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/zipcloud-parent/zipcloud-core/src/test/resources
+2016-09-24 16:08:53,283 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:53,284 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/main/resources
+2016-09-24 16:08:53,287 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:53,287 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-webapp/src/test/resources
+2016-09-24 16:08:53,524 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:53,524 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/main/resources
+2016-09-24 16:08:53,526 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 16:08:53,526 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jd/Documents/workspaceCBGIT1/cloudstreetmarket-parent/cloudstreetmarket-api/src/test/resources
